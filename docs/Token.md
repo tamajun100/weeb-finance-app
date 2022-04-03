@@ -29,3 +29,15 @@ Knowing that, we designed WEEB to generate passive income without the requiremen
 
 Staking is a built-in feature of the WEEB token. Simple and easy, **buy and earn right away**!
 No complicated steps, no confusing child tokens, no more forgetting where you staked your tokens, they're always in your wallet at your disposal!
+
+&nbsp;
+
+## Properties
+
+1. Non-custodial staking. -Holding your tokens in your wallet is enough.
+1. Dynamic emission. -Reward goes up when sells increase.
+1. Fixed transfer burn rate. -Constant pressure on inflation.
+1. Dynamic sales burn rate. -Incentivizes holding by increasing sales burn rate on high volatility.
+1. Rebate on burns. -Higher balances burn less. Big fish friendly.
+
+
