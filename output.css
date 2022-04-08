@@ -1500,6 +1500,10 @@ h2 {
   height: 464px;
 }
 
+.h-\[43px\] {
+  height: 43px;
+}
+
 .h-\[52px\] {
   height: 52px;
 }
@@ -1542,10 +1546,6 @@ h2 {
   height: fit-content;
 }
 
-.h-\[43px\] {
-  height: 43px;
-}
-
 .max-h-\[208px\] {
   max-height: 208px;
 }
@@ -1556,6 +1556,10 @@ h2 {
 
 .max-h-\[48px\] {
   max-height: 48px;
+}
+
+.max-h-\[43px\] {
+  max-height: 43px;
 }
 
 .max-h-\[52px\] {
@@ -1572,10 +1576,6 @@ h2 {
 
 .max-h-screen {
   max-height: 100vh;
-}
-
-.max-h-\[43px\] {
-  max-height: 43px;
 }
 
 .min-h-\[5\.5em\] {
@@ -1606,8 +1606,8 @@ h2 {
   width: 908px;
 }
 
-.w-\[52px\] {
-  width: 52px;
+.w-\[43px\] {
+  width: 43px;
 }
 
 .w-\[102px\] {
@@ -1656,10 +1656,6 @@ h2 {
   width: 4em;
 }
 
-.w-\[43px\] {
-  width: 43px;
-}
-
 .min-w-fit {
   min-width: -webkit-fit-content;
   min-width: -moz-fit-content;
@@ -1678,8 +1674,8 @@ h2 {
   max-width: 94px;
 }
 
-.max-w-\[52px\] {
-  max-width: 52px;
+.max-w-\[43px\] {
+  max-width: 43px;
 }
 
 .max-w-\[102px\] {
@@ -1688,10 +1684,6 @@ h2 {
 
 .max-w-md {
   max-width: 28rem;
-}
-
-.max-w-\[43px\] {
-  max-width: 43px;
 }
 
 .table-fixed {
