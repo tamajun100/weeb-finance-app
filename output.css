@@ -1440,14 +1440,6 @@ h2 {
   margin-bottom: 0;
 }
 
-.mt-16 {
-  margin-top: 4em;
-}
-
-.mb-6 {
-  margin-bottom: 1.5em;
-}
-
 .block {
   display: block;
 }
@@ -1550,6 +1542,10 @@ h2 {
   height: fit-content;
 }
 
+.h-\[43px\] {
+  height: 43px;
+}
+
 .max-h-\[208px\] {
   max-height: 208px;
 }
@@ -1560,10 +1556,6 @@ h2 {
 
 .max-h-\[48px\] {
   max-height: 48px;
-}
-
-.max-h-\[80px\] {
-  max-height: 80px;
 }
 
 .max-h-\[52px\] {
@@ -1578,20 +1570,12 @@ h2 {
   max-height: 10em;
 }
 
-.max-h-\[85vh\] {
-  max-height: 85vh;
-}
-
-.max-h-\[100vh\] {
-  max-height: 100vh;
-}
-
 .max-h-screen {
   max-height: 100vh;
 }
 
-.max-h-\[90vh\] {
-  max-height: 90vh;
+.max-h-\[43px\] {
+  max-height: 43px;
 }
 
 .min-h-\[5\.5em\] {
@@ -1622,8 +1606,8 @@ h2 {
   width: 908px;
 }
 
-.w-\[64px\] {
-  width: 64px;
+.w-\[52px\] {
+  width: 52px;
 }
 
 .w-\[102px\] {
@@ -1672,6 +1656,10 @@ h2 {
   width: 4em;
 }
 
+.w-\[43px\] {
+  width: 43px;
+}
+
 .min-w-fit {
   min-width: -webkit-fit-content;
   min-width: -moz-fit-content;
@@ -1690,8 +1678,8 @@ h2 {
   max-width: 94px;
 }
 
-.max-w-\[80px\] {
-  max-width: 80px;
+.max-w-\[52px\] {
+  max-width: 52px;
 }
 
 .max-w-\[102px\] {
@@ -1700,6 +1688,10 @@ h2 {
 
 .max-w-md {
   max-width: 28rem;
+}
+
+.max-w-\[43px\] {
+  max-width: 43px;
 }
 
 .table-fixed {
@@ -1868,10 +1860,6 @@ h2 {
 
 .items-start {
   align-items: flex-start;
-}
-
-.items-end {
-  align-items: flex-end;
 }
 
 .items-center {
@@ -2162,7 +2150,7 @@ h2 {
 }
 
 .bg-weeb-logo {
-  background-image: url('/images/weebfi-logo1.svg');
+  background-image: url('/images/weebfi-logo.svg');
 }
 
 .bg-gradient-to-r {
