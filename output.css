@@ -483,14 +483,17 @@ input, select {
 }
 
 input::-webkit-input-placeholder, select::-webkit-input-placeholder {
+  text-align: left;
   color: rgb(245 243 255 / 0.4);
 }
 
 input:-ms-input-placeholder, select:-ms-input-placeholder {
+  text-align: left;
   color: rgb(245 243 255 / 0.4);
 }
 
 input::placeholder, select::placeholder {
+  text-align: left;
   color: rgb(245 243 255 / 0.4);
 }
 
@@ -2138,7 +2141,7 @@ h2 {
 }
 
 .bg-weeb-text {
-  background-image: url('/images/weebfi-text1.svg');
+  background-image: url('/images/weebfi-text.svg');
 }
 
 .bg-weeb-logo {
