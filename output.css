@@ -1601,6 +1601,22 @@ h2 {
   height: fit-content;
 }
 
+.h-52 {
+  height: 13em;
+}
+
+.h-72 {
+  height: 18em;
+}
+
+.h-96 {
+  height: 24em;
+}
+
+.h-auto {
+  height: auto;
+}
+
 .max-h-\[208px\] {
   max-height: 208px;
 }
@@ -2248,6 +2264,11 @@ h2 {
 .bg-indigo-700 {
   --tw-bg-opacity: 1;
   background-color: rgb(67 56 202 / var(--tw-bg-opacity));
+}
+
+.bg-slate-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(15 23 42 / var(--tw-bg-opacity));
 }
 
 .bg-weeb-text {
