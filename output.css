@@ -1593,6 +1593,18 @@ h2 {
   height: fit-content;
 }
 
+.h-\[2px\] {
+  height: 2px;
+}
+
+.h-\[1px\] {
+  height: 1px;
+}
+
+.h-\[3px\] {
+  height: 3px;
+}
+
 .max-h-\[208px\] {
   max-height: 208px;
 }
@@ -1673,8 +1685,8 @@ h2 {
   width: 12em;
 }
 
-.w-\[128px\] {
-  width: 128px;
+.w-\[150px\] {
+  width: 150px;
 }
 
 .w-11 {
@@ -1703,10 +1715,6 @@ h2 {
 
 .w-16 {
   width: 4em;
-}
-
-.w-\[150px\] {
-  width: 150px;
 }
 
 .max-w-\[408px\] {
@@ -2202,6 +2210,11 @@ h2 {
   background-color: rgb(252 165 165 / var(--tw-bg-opacity));
 }
 
+.bg-indigo-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(129 140 248 / var(--tw-bg-opacity));
+}
+
 .bg-weeb-text {
   background-image: url('/images/weebfi-text.svg');
 }
@@ -2219,8 +2232,22 @@ h2 {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(233 213 255 / 0));
 }
 
+.from-pink-600 {
+  --tw-gradient-from: #db2777;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(219 39 119 / 0));
+}
+
+.from-transparent {
+  --tw-gradient-from: transparent;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 0 0 / 0));
+}
+
 .to-indigo-200 {
   --tw-gradient-to: #c7d2fe;
+}
+
+.to-rose-600 {
+  --tw-gradient-to: #e11d48;
 }
 
 .bg-left-top {
@@ -2381,6 +2408,14 @@ h2 {
   font-size: 0.6875em !important;
 }
 
+.text-\[24px\] {
+  font-size: 24px;
+}
+
+.text-\[18px\] {
+  font-size: 18px;
+}
+
 .font-semibold {
   font-weight: 600;
 }
@@ -2487,6 +2522,36 @@ h2 {
 .text-gray-900 {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
+}
+
+.text-violet-200 {
+  --tw-text-opacity: 1;
+  color: rgb(221 214 254 / var(--tw-text-opacity));
+}
+
+.text-violet-300 {
+  --tw-text-opacity: 1;
+  color: rgb(196 181 253 / var(--tw-text-opacity));
+}
+
+.text-violet-400 {
+  --tw-text-opacity: 1;
+  color: rgb(167 139 250 / var(--tw-text-opacity));
+}
+
+.text-indigo-400 {
+  --tw-text-opacity: 1;
+  color: rgb(129 140 248 / var(--tw-text-opacity));
+}
+
+.text-blue-700 {
+  --tw-text-opacity: 1;
+  color: rgb(29 78 216 / var(--tw-text-opacity));
+}
+
+.text-violet-500 {
+  --tw-text-opacity: 1;
+  color: rgb(139 92 246 / var(--tw-text-opacity));
 }
 
 .accent-violet-600 {
