@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7546267.css",
-    "main.js": "/static/js/main.8afe4709.js",
+    "main.js": "/static/js/main.579380f2.js",
     "static/js/787.d90237fe.chunk.js": "/static/js/787.d90237fe.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
@@ -9,11 +9,11 @@
     "index.html": "/index.html",
     "static/media/weebfi-logo.svg": "/static/media/weebfi-logo.4900332d63674f164257.svg",
     "main.c7546267.css.map": "/static/css/main.c7546267.css.map",
-    "main.8afe4709.js.map": "/static/js/main.8afe4709.js.map",
+    "main.579380f2.js.map": "/static/js/main.579380f2.js.map",
     "787.d90237fe.chunk.js.map": "/static/js/787.d90237fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7546267.css",
-    "static/js/main.8afe4709.js"
+    "static/js/main.579380f2.js"
   ]
 }
