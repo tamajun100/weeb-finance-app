@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.359455ff.css",
-    "main.js": "/static/js/main.97d41330.js",
+    "main.css": "/static/css/main.553f5588.css",
+    "main.js": "/static/js/main.92eb8440.js",
     "static/js/787.8192801c.chunk.js": "/static/js/787.8192801c.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "static/media/weebfi-text.svg": "/static/media/weebfi-text.c4ab2fa7e1a496966c64.svg",
     "index.html": "/index.html",
     "static/media/weebfi-logo.svg": "/static/media/weebfi-logo.4900332d63674f164257.svg",
-    "main.359455ff.css.map": "/static/css/main.359455ff.css.map",
-    "main.97d41330.js.map": "/static/js/main.97d41330.js.map",
+    "main.553f5588.css.map": "/static/css/main.553f5588.css.map",
+    "main.92eb8440.js.map": "/static/js/main.92eb8440.js.map",
     "787.8192801c.chunk.js.map": "/static/js/787.8192801c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.359455ff.css",
-    "static/js/main.97d41330.js"
+    "static/css/main.553f5588.css",
+    "static/js/main.92eb8440.js"
   ]
 }
